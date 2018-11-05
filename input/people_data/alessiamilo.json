@@ -1,10 +1,10 @@
 {
 "name": "Alessia Milo", 
-"url": "", 
-"acadposition": "", 
-"blurb": "", 
+"url": "http://eecs.qmul.ac.uk/~am320/", 
+"acadposition": "Reserch Assistant on Audio Commons, PhD Candidate in Media and Arts Technology", 
+"blurb": "Alessia Milo is an architect researching the acoustics of spaces and the sonic interactions they promote through the use of graphic notation, e-textile maps, and soundwalks. Currently completing her PhD within the Media and Arts Technology CdT programme at QMUL, she has recently joined the Audio Commons project and lectured in creative coding.", 
 "themes": [
-"audioeng"
+"audioeng" "soundwalk" "space" "aural design"
 ], 
-"role": "phd"
+"role": "phd", "ra"
 }
